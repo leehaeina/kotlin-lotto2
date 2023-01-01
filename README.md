@@ -1,1 +1,2 @@
 # kotlin-lotto
+initial commit
